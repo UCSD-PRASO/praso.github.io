@@ -3,11 +3,11 @@
   <title>PRASO</title>
   
   <subtitle>Psychological Research and Support Organization</subtitle>
-  <link href="http://praso.github.io/project/atom.xml" rel="self"/>
+  <link href="http://ucsd-praso.github.io/atom.xml" rel="self"/>
   
-  <link href="http://praso.github.io/project/"/>
+  <link href="http://ucsd-praso.github.io/"/>
   <updated>2021-04-04T23:57:22.757Z</updated>
-  <id>http://praso.github.io/project/</id>
+  <id>http://ucsd-praso.github.io/</id>
   
   <author>
     <name>PRASO@UCSD</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://praso.github.io/project/2021-04-04/hello-world/"/>
-    <id>http://praso.github.io/project/2021-04-04/hello-world/</id>
+    <link href="http://ucsd-praso.github.io/2021-04-04/hello-world/"/>
+    <id>http://ucsd-praso.github.io/2021-04-04/hello-world/</id>
     <published>2021-04-04T23:57:22.757Z</published>
     <updated>2021-04-04T23:57:22.757Z</updated>
     
