@@ -13,7 +13,7 @@
     --color-mode: 'dark';
   }
   :root:not([color-mode]) {
-    --color-background: #08192d;
+    --color-background: #0c0c0c;
     --color-background-secondary: #0b1013;
     --color-background-rgb: 30, 33, 40;
     --color-text: #bdc0ba;
@@ -24,7 +24,7 @@
   }
 }
 [color-mode='dark'] {
-  --color-background: #08192d;
+  --color-background: #0c0c0c;
   --color-background-secondary: #0b1013;
   --color-background-rgb: 30, 33, 40;
   --color-text: #bdc0ba;
@@ -801,7 +801,7 @@ body input {
   width: 100%;
   height: 100%;
   top: 0;
-  background: url("/images/PageLoading.gif") no-repeat center;
+  background: url("") no-repeat center;
   background-color: var(--color-background);
   z-index: 2019;
   overflow: hidden;
