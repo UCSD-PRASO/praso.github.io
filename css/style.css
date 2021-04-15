@@ -6,7 +6,7 @@
   --color-text-secondary: #434343;
   --color-text-third: #656765;
   --color-border: #828282;
-  --background-image: url("/images/theme/welcome.jpg");
+  --background-image: url("/images/theme/Welcome1.jpg");
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -20,7 +20,7 @@
     --color-text-secondary: #91989f;
     --color-text-third: #787878;
     --color-border: #373c38;
-    --background-image: url("/images/theme/welcome.jpg");
+    --background-image: url("/images/theme/Welcome2.jpg");
   }
 }
 [color-mode='dark'] {
@@ -31,7 +31,7 @@
   --color-text-secondary: #91989f;
   --color-text-third: #787878;
   --color-border: #373c38;
-  --background-image: url("/images/theme/welcome.jpg");
+  --background-image: url("/images/theme/Welcome2.jpg");
 }
 [color-mode='dark'] .tags a {
   color: var(--color-text) !important;
